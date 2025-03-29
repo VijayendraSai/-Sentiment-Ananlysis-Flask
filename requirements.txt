@@ -5,3 +5,4 @@ python-dotenv
 pymongo
 requests
 Flask-JWT-Extended
+gunicorn
